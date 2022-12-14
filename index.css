@@ -1,0 +1,38 @@
+.bg-img1 {
+  height: 450px;
+  background-color: #000;
+  background-size: cover;
+  background-image: url("abstract-grunge-decorative-relief-navy-blue-stucco-wall-texture-wide-angle-rough-colored-background_1258-28311.jpg");
+}
+.bg-img2 {
+  height: 450px;
+  background-color: #000;
+  background-size: cover;
+  background-image: url("blue-diagonal-square-grid-background_1409-1251.jpg");
+}
+.bg-img3 {
+  height: 450px;
+  background-color: #000;
+  background-size: cover;
+  background-image: url("modern-gold-background-free-vector.jpg");
+}
+body {
+  position: relative;
+}
+.carousel-indicators {
+  position: absolute;
+  bottom: 150px;
+}
+.bar {
+  width: 40px;
+}
+.bar.middle {
+  margin: 0 2px;
+}
+footer {
+  justify-content: space-between;
+}
+.carousel-control-prev,
+.carousel-control-next {
+  height: 400px;
+}
